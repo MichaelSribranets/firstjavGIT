@@ -27,7 +27,7 @@ let appData = {
  income : null,
  saving : false
 };
-
+console.log ( appData.budget);
 // console.log(leftBoresweWidth);
 
 // var leftBoresweWidth = 1;
